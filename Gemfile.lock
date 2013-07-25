@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    origami (1.2.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  origami
